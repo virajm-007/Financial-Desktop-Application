@@ -1,0 +1,21 @@
+﻿  MyForm.cpp
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1207): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1227): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1228): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1229): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1230): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1236): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1201): warning C4101: 'tmp_monthly_emi': unreferenced local variable
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1200): warning C4101: 'monthly_emi': unreferenced local variable
+  firstpage.cpp
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1207): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1227): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1228): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1229): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1230): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1236): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1201): warning C4101: 'tmp_monthly_emi': unreferenced local variable
+c:\users\sir\source\repos\fcproject\fcproject\firstpage.h(1200): warning C4101: 'monthly_emi': unreferenced local variable
+  Generating Code...
+  emicalculator.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  fcproject.vcxproj -> C:\Users\sir\source\repos\fcproject\Debug\fcproject.exe
