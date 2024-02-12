@@ -2,6 +2,11 @@
 
 Welcome to the Financial Desktop Application – a comprehensive software solution designed to provide users with a range of powerful financial tools and services. This application is developed to assist users in managing their finances effectively, from planning loans and investments to calculating taxes and streamlining the loan application process.
 
+## Project Demo
+
+Check out the [Project Demo](https://drive.google.com/file/d/1W4lcGW4dDgJAezsC4cdKhg22d2V3sict/view) to see the application in action.
+
+
 ## Key Features
 
 ### 1. Equated Monthly Installment (EMI) Calculator
