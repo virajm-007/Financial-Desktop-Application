@@ -24,26 +24,23 @@ Welcome to the Financial Desktop Application – a comprehensive software soluti
 
 Follow these steps to get started with the Financial Desktop Application:
 
-1. **Clone the Repository:**
+ **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/financial-desktop-app.git
 
-## Getting Started
+1. Navigate to the Project Directory:
+   ```bash
+    cd financial-desktop-app
+2. Install Dependencies:
+    Ensure you have all the necessary dependencies installed. Refer to the documentation for details.
+3. Run the Application:
+    Launch the application and explore the comprehensive financial tools and services.
 
-### Navigate to the Project Directory:
-```bash
-cd financial-desktop-app
-
-Install Dependencies:
-Ensure you have all the necessary dependencies installed. Refer to the documentation for details.
-
-Run the Application:
-Launch the application and explore the comprehensive financial tools and services.
-
-Contributing
+<h3>Contributing</h3>
 If you'd like to contribute to the project, please follow the Contributing Guidelines.
 
 License
 This Financial Desktop Application is licensed under the MIT License.
 
 We hope you find this financial application valuable for your financial planning and decision-making needs. If you have any questions or feedback, feel free to reach out. Happy financial management!
+
